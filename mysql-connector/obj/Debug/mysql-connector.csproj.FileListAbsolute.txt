@@ -1,0 +1,11 @@
+\\SAFETYSERV\H Drive\scschiar\Desktop\mysql-connector\mysql-connector\bin\Debug\mysql-connector.exe.config
+\\SAFETYSERV\H Drive\scschiar\Desktop\mysql-connector\mysql-connector\bin\Debug\mysql-connector.exe
+\\SAFETYSERV\H Drive\scschiar\Desktop\mysql-connector\mysql-connector\bin\Debug\mysql-connector.pdb
+\\SAFETYSERV\H Drive\scschiar\Desktop\mysql-connector\mysql-connector\obj\Debug\mysql_connector.Form1.resources
+\\SAFETYSERV\H Drive\scschiar\Desktop\mysql-connector\mysql-connector\obj\Debug\mysql_connector.Properties.Resources.resources
+\\SAFETYSERV\H Drive\scschiar\Desktop\mysql-connector\mysql-connector\obj\Debug\mysql-connector.csproj.GenerateResource.Cache
+\\SAFETYSERV\H Drive\scschiar\Desktop\mysql-connector\mysql-connector\obj\Debug\mysql-connector.exe
+\\SAFETYSERV\H Drive\scschiar\Desktop\mysql-connector\mysql-connector\obj\Debug\mysql-connector.pdb
+C:\Git\projects\mysql-connector\mysql-connector\bin\Debug\mysql-connector.exe.config
+C:\Git\projects\mysql-connector\mysql-connector\obj\Debug\mysql-connector.exe
+C:\Git\projects\mysql-connector\mysql-connector\obj\Debug\mysql-connector.pdb
